@@ -35,22 +35,22 @@ type Deadline = {
 
 const deadlines: Deadline[] = [
   {
-    date: "2026-08-14T23:59:59",
+    date: "2026-08-15T23:59:59",
     labelKey: "deadlineConvocatoria",
     descriptionKey: "deadlineConvocatoriaDesc",
   },
   {
-    date: "2026-08-15T23:59:59",
+    date: "2026-08-16T23:59:59",
     labelKey: "deadlineEnvio",
     descriptionKey: "deadlineEnvioDesc",
   },
   {
-    date: "2026-08-20T23:59:59",
+    date: "2026-08-21T23:59:59",
     labelKey: "deadlineEntrega",
     descriptionKey: "deadlineEntregaDesc",
   },
   {
-    date: "2026-08-24T18:00:00",
+    date: "2026-08-25T18:00:00",
     labelKey: "deadlineFinal",
     descriptionKey: "deadlineFinalDesc",
   },
@@ -58,13 +58,13 @@ const deadlines: Deadline[] = [
 
 const timelineFinalKeys = [
   {
-    date: "24 AGO",
+    date: "25 AGO",
     titleKey: "tl6Title" as const,
     textKey: "tl6Text" as const,
     icon: BookOpen,
   },
   {
-    date: "25 AGO",
+    date: "26 AGO",
     titleKey: "tl7Title" as const,
     textKey: "tl7Text" as const,
     icon: Trophy,
@@ -73,31 +73,31 @@ const timelineFinalKeys = [
 
 const timelineKeys = [
   {
-    date: "10 — 14 AGO",
+    date: "11 — 15 AGO",
     titleKey: "tl1Title" as const,
     textKey: "tl1Text" as const,
     icon: Users,
   },
   {
-    date: "15 AGO",
+    date: "16 AGO",
     titleKey: "tl2Title" as const,
     textKey: "tl2Text" as const,
     icon: Database,
   },
   {
-    date: "20 AGO",
+    date: "21 AGO",
     titleKey: "tl3Title" as const,
     textKey: "tl3Text" as const,
     icon: Code2,
   },
   {
-    date: "21 AGO",
+    date: "22 AGO",
     titleKey: "tl4Title" as const,
     textKey: "tl4Text" as const,
     icon: ShieldCheck,
   },
   {
-    date: "22 AGO",
+    date: "23 AGO",
     titleKey: "tl5Title" as const,
     textKey: "tl5Text" as const,
     icon: Sparkles,
@@ -165,7 +165,7 @@ const disciplinesKeys = [
   },
 ];
 
-function Countdown({ t }: { t: (typeof translations)["es"] }) {
+function Countdown({ t }: { t: (typeof translations)[keyof typeof translations] }) {
   const [target, setTarget] = useState(deadlines[0]);
 
   const calculateTime = () => {

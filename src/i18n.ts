@@ -19,8 +19,8 @@ export const translations = {
     heroDescription:
       "An intradaily regime and timing challenge on the S&P 500 ETF. Identify the predominant volatility regime and the most favorable trading window using high-frequency data.",
     heroNote: "Statistical prediction, not trading",
-    callPeriod: "Call for applications: Aug 10 — 14",
-    finalDate: "In-person final: Aug 24 - 25",
+    callPeriod: "Call for applications: Aug 11 — 15",
+    finalDate: "In-person final: Aug 25 - 26",
 
     // Countdown
     nextDeadline: "NEXT DEADLINE ·",
@@ -203,8 +203,8 @@ export const translations = {
     heroDescription:
       "Un desafío de régimen intradía y timing sobre el ETF del S&P 500. Identifica el régimen de volatilidad predominante y la ventana de negociación más favorable utilizando datos de alta frecuencia.",
     heroNote: "Predicción estadística, no trading",
-    callPeriod: "Convocatoria: 10 — 14 agosto",
-    finalDate: "Final presencial: 24 - 25 agosto",
+    callPeriod: "Convocatoria: 11 — 15 agosto",
+    finalDate: "Final presencial: 25 - 26 agosto",
 
     // Countdown
     nextDeadline: "PRÓXIMA FECHA LIMÍTE ·",

@@ -35,12 +35,12 @@ Un desafío de predicción estadística de régimen intradía y timing sobre el 
 
 | Fase                    | Fecha              |
 |-------------------------|--------------------|
-| Convocatoria            | 10 — 14 agosto     |
-| Envío del reto          | 15 agosto          |
-| Entrega de soluciones   | 20 agosto          |
-| Revisión                | 21 agosto          |
-| Anuncio de finalistas   | 22 agosto          |
-| Final presencial        | 24 — 25 agosto     |
+| Convocatoria            | 11 — 15 agosto     |
+| Envío del reto          | 16 agosto          |
+| Entrega de soluciones   | 21 agosto          |
+| Revisión                | 22 agosto          |
+| Anuncio de finalistas   | 23 agosto          |
+| Final presencial        | 25 — 26 agosto     |
 
 ---
 
