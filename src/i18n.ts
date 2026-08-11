@@ -173,7 +173,7 @@ export const translations = {
     ctaTitle1: "Read the Market.",
     ctaTitle2: "Prove your model.",
     ctaDesc:
-      "Applications are open from August 11 to 15. Do you have what it takes to reach the final?",
+      "Applications are open from August 11 to 15. The in-person final will take place in Managua.",
     ctaButton: "Register for the Hackathon",
 
     // Footer
@@ -357,7 +357,7 @@ export const translations = {
     ctaTitle1: "Lee el mercado.",
     ctaTitle2: "Demuestra tu modelo.",
     ctaDesc:
-      "La convocatoria está abierta del 11 al 15 de agosto. ¿Tienes lo necesario para llegar a la final?",
+      "La convocatoria está abierta del 11 al 15 de agosto. La final presencial será en Managua.",
     ctaButton: "Inscribirme al Hackathon",
 
     // Footer
@@ -365,7 +365,7 @@ export const translations = {
     footerDesc:
       "Un desafío de predicción estadística, robustez y pensamiento cuantitativo.",
     contact: "CONTACTO",
-    location: "Salón privado · Managua (dirección para finalistas)",
+    location: "Salón privado · Managua",
     copyright: "© 2026 CorTech Labs. Todos los derechos reservados.",
   },
 } as const;

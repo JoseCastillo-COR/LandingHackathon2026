@@ -634,6 +634,9 @@ function App() {
               title={t.finalTitle}
               description={t.finalDesc}
             />
+            <div className="mt-3 text-sm text-white/60">
+              {t.location}
+            </div>
 
             <div className="mt-12 grid gap-5 md:grid-cols-2">
               <Feature
