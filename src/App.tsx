@@ -419,7 +419,7 @@ function App() {
               </div>
               <div className="flex items-center gap-2 rounded-full border border-white/10 bg-white/5 px-4 py-1.5 text-xs text-white/60">
                 <Trophy size={13} className="text-purple-400" />
-                {t.finalDate}
+                {t.finalDate}{t.finalDate.includes('Managua') ? '' : ' · Managua'}
               </div>
             </div>
           </div>

@@ -20,7 +20,7 @@ export const translations = {
       "An intradaily regime and timing challenge on the S&P 500 ETF. Identify the predominant volatility regime and the most favorable trading window using high-frequency data.",
     heroNote: "Statistical prediction, not trading",
     callPeriod: "Call for applications: Aug 11 — 15",
-    finalDate: "In-person final: Aug 25 - 26",
+    finalDate: "In-person final: Aug 25 - 26 (Managua)",
 
     // Countdown
     nextDeadline: "NEXT DEADLINE ·",
@@ -173,7 +173,7 @@ export const translations = {
     ctaTitle1: "Read the Market.",
     ctaTitle2: "Prove your model.",
     ctaDesc:
-      "Applications are open from August 10 to 14. Do you have what it takes to reach the final?",
+      "Applications are open from August 11 to 15. Do you have what it takes to reach the final?",
     ctaButton: "Register for the Hackathon",
 
     // Footer
@@ -181,7 +181,7 @@ export const translations = {
     footerDesc:
       "A challenge of statistical prediction, robustness and quantitative thinking.",
     contact: "CONTACT",
-    location: "Private venue · Address for finalists",
+    location: "Private venue · Managua (address for finalists)",
     copyright: "© 2026 CorTech Labs. All rights reserved.",
   },
 
@@ -204,7 +204,7 @@ export const translations = {
       "Un desafío de régimen intradía y timing sobre el ETF del S&P 500. Identifica el régimen de volatilidad predominante y la ventana de negociación más favorable utilizando datos de alta frecuencia.",
     heroNote: "Predicción estadística, no trading",
     callPeriod: "Convocatoria: 11 — 15 agosto",
-    finalDate: "Final presencial: 25 - 26 agosto",
+    finalDate: "Final presencial: 25 - 26 agosto (Managua)",
 
     // Countdown
     nextDeadline: "PRÓXIMA FECHA LIMÍTE ·",
@@ -357,7 +357,7 @@ export const translations = {
     ctaTitle1: "Lee el mercado.",
     ctaTitle2: "Demuestra tu modelo.",
     ctaDesc:
-      "La convocatoria está abierta del 10 al 14 de agosto. ¿Tienes lo necesario para llegar a la final?",
+      "La convocatoria está abierta del 11 al 15 de agosto. ¿Tienes lo necesario para llegar a la final?",
     ctaButton: "Inscribirme al Hackathon",
 
     // Footer
@@ -365,7 +365,7 @@ export const translations = {
     footerDesc:
       "Un desafío de predicción estadística, robustez y pensamiento cuantitativo.",
     contact: "CONTACTO",
-    location: "Salón privado · Dirección para finalistas",
+    location: "Salón privado · Managua (dirección para finalistas)",
     copyright: "© 2026 CorTech Labs. Todos los derechos reservados.",
   },
 } as const;
