@@ -154,6 +154,11 @@ const disciplinesKeys = [
     descriptionKey: "discMLDesc" as const,
   },
   {
+    icon: Server,
+    titleKey: "discSystems" as const,
+    descriptionKey: "discSystemsDesc" as const,
+  },
+  {
     icon: Atom,
     titleKey: "discPhysics" as const,
     descriptionKey: "discPhysicsDesc" as const,

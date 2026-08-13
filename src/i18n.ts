@@ -65,10 +65,13 @@ export const translations = {
     discMathDesc: "Quantitative foundations and problem structure.",
     discML: "ML / Computer Science",
     discMLDesc: "Predictive models and engineering.",
+    discSystems: "Systems / Computer Engineering",
+    discSystemsDesc: "Systems design, software engineering and infrastructure.",
     discEcon: "Econometrics / Finance",
     discEconDesc: "Time series and quantitative analysis.",
     discPhysics: "Physics",
     discPhysicsDesc: "Modeling of complex systems and quantitative methods.",
+
     audienceWarning:
       "Pure economics or public policy profiles will not be accepted. We look for quantitative and analytical skills.",
 
@@ -249,10 +252,13 @@ export const translations = {
     discMathDesc: "Fundamentos cuantitativos y estructura del problema.",
     discML: "ML / Computer Science",
     discMLDesc: "Modelos predictivos e ingeniería.",
+    discSystems: "Sistemas / Ingeniería en Computación",
+    discSystemsDesc: "Ingeniería de software, diseño de sistemas e infraestructura.",
     discEcon: "Econometría / Finanzas",
     discEconDesc: "Series temporales y análisis cuantitativo.",
     discPhysics: "Física",
     discPhysicsDesc: "Modelado de sistemas complejos y métodos cuantitativos.",
+
     audienceWarning:
       "No se aceptarán perfiles de economía pura o políticas públicas. Buscamos habilidades cuantitativas y analíticas.",
 
