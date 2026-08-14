@@ -35,17 +35,17 @@ type Deadline = {
 
 const deadlines: Deadline[] = [
   {
-    date: "2026-08-15T23:59:59",
+    date: "2026-08-17T23:59:59",
     labelKey: "deadlineConvocatoria",
     descriptionKey: "deadlineConvocatoriaDesc",
   },
   {
-    date: "2026-08-16T23:59:59",
+    date: "2026-08-18T23:59:59",
     labelKey: "deadlineEnvio",
     descriptionKey: "deadlineEnvioDesc",
   },
   {
-    date: "2026-08-21T23:59:59",
+    date: "2026-08-23T23:59:59",
     labelKey: "deadlineEntrega",
     descriptionKey: "deadlineEntregaDesc",
   },
@@ -73,31 +73,31 @@ const timelineFinalKeys = [
 
 const timelineKeys = [
   {
-    date: "11 — 15 AGO",
+    date: "11 — 17 AGO",
     titleKey: "tl1Title" as const,
     textKey: "tl1Text" as const,
     icon: Users,
   },
   {
-    date: "16 AGO",
+    date: "18 AGO",
     titleKey: "tl2Title" as const,
     textKey: "tl2Text" as const,
     icon: Database,
   },
   {
-    date: "21 AGO",
+    date: "23 AGO",
     titleKey: "tl3Title" as const,
     textKey: "tl3Text" as const,
     icon: Code2,
   },
   {
-    date: "22 AGO",
+    date: "24 AGO",
     titleKey: "tl4Title" as const,
     textKey: "tl4Text" as const,
     icon: ShieldCheck,
   },
   {
-    date: "23 AGO",
+    date: "25 AGO",
     titleKey: "tl5Title" as const,
     textKey: "tl5Text" as const,
     icon: Sparkles,

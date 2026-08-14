@@ -19,7 +19,7 @@ export const translations = {
     heroDescription:
       "An intradaily regime and timing challenge on the S&P 500 ETF. Identify the predominant volatility regime and the most favorable trading window using high-frequency data.",
     heroNote: "Statistical prediction, not trading",
-    callPeriod: "Call for applications: Aug 11 — 15",
+    callPeriod: "Call for applications: Aug 11 — 17",
     finalDate: "In-person final: Aug 25 - 26 (Managua)",
 
     // Countdown
@@ -58,7 +58,7 @@ export const translations = {
     audienceEyebrow: "WHO WE'RE LOOKING FOR",
     audienceTitle: "Quantitative talent.",
     audienceDesc:
-      "The hackathon is exclusively open to active Master's or PhD students.",
+      "We are looking for students from master's, PhD, or 5th–4th year programs in fields such as Statistics, Mathematics, Physics, Machine Learning, Systems, Computer Science, Econometrics, or related areas.",
     discStats: "Statistics",
     discStatsDesc: "Modeling, inference and calibration.",
     discMath: "Mathematics",
@@ -176,7 +176,7 @@ export const translations = {
     ctaTitle1: "Read the Market.",
     ctaTitle2: "Prove your model.",
     ctaDesc:
-      "Applications are open from August 11 to 15. The in-person final will take place in Managua.",
+      "Applications are open from August 11 to 17. The in-person final will take place in Managua.",
     ctaButton: "Register for the Hackathon",
 
     // Footer
@@ -206,7 +206,7 @@ export const translations = {
     heroDescription:
       "Un desafío de régimen intradía y timing sobre el ETF del S&P 500. Identifica el régimen de volatilidad predominante y la ventana de negociación más favorable utilizando datos de alta frecuencia.",
     heroNote: "Predicción estadística, no trading",
-    callPeriod: "Convocatoria: 11 — 15 agosto",
+    callPeriod: "Convocatoria: 11 — 17 agosto",
     finalDate: "Final presencial: 25 - 26 agosto (Managua)",
 
     // Countdown
@@ -245,7 +245,7 @@ export const translations = {
     audienceEyebrow: "A QUIÉN BUSCAMOS",
     audienceTitle: "Talento cuantitativo.",
     audienceDesc:
-      "El hackathon está dirigido exclusivamente a estudiantes activos de Maestría o Doctorado.",
+      "Se busca estudiantes de maestría, doctorado o de 5.º–4.º año de carreras como Estadística, Matemáticas, Física, Machine Learning, Sistemas, Computación, Econometría o carreras afines.",
     discStats: "Estadística",
     discStatsDesc: "Modelado, inferencia y calibración.",
     discMath: "Matemáticas",
@@ -363,7 +363,7 @@ export const translations = {
     ctaTitle1: "Lee el mercado.",
     ctaTitle2: "Demuestra tu modelo.",
     ctaDesc:
-      "La convocatoria está abierta del 11 al 15 de agosto. La final presencial será en Managua.",
+      "La convocatoria está abierta del 11 al 17 de agosto. La final presencial será en Managua.",
     ctaButton: "Inscribirme al Hackathon",
 
     // Footer
